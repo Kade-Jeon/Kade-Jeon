@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kade_Jeon&fontSize=40)
 <h1 align="center"> 전총명 </h1>
 
+<h3>소개</h3>
+안녕하세요.
+스포츠를 전공하고, 해외영업 및 국내영업을 경험하고 개발자가 되고자 도전하고 있는 전총명 입니다.
+
+
 <h3>📍목표</h3>
 현재 부트캠프에 참여하고 있으며 수료 후, 백엔드 개발자로 취업을 목표로 하고 있습니다.
 
