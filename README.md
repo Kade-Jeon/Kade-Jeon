@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kade_Jeon&fontSize=90)
-<h1 align="center"> Chongmyung Jeon (Kade) </h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kade_Jeon&fontSize=40)
+<h1 align="center"> 전총명 </h1>
 
 <h3>📍목표</h3>
 현재 부트캠프에 참여하고 있으며 수료 후, 백엔드 개발자로 취업을 목표로 하고 있습니다.
@@ -45,7 +45,7 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kade-Jeon)](https://github.com/Kade-Jeon/github-readme-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kade-Jeon)](https://github.com/Kade-Jeon/github-readme-stats)
 
 
