@@ -60,13 +60,14 @@
 </div>
 
 
-
+<p align=center>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kade-Jeon)](https://github.com/Kade-Jeon/github-readme-stats)
+</p>
 
 
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kade-Jeon)](https://github.com/Kade-Jeon/github-readme-stats)
-
+</p>
 
 ### Mini Project
 <ol>
