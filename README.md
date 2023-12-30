@@ -14,11 +14,7 @@
 	<li>엔코아 플레이데이터 백엔드 부트캠프 2기</li>
 	<li>기간: 2023.06.22 ~ 2023.12.21</li>
 </ul>
-
-//<h3>🪪 자격</h3>
-//<ul>
-//	<li>SQL 개발자</li>
-//</ul>
+<img src="https://i.pinimg.com/originals/9e/04/6b/9e046bd40cd5e178205311426057de98.gif" />
 
 <div align="center">
   <h4> IDE </h4>
