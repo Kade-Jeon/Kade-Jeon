@@ -71,6 +71,6 @@
 	<li>BOLT : 우주 여행 에이전시 /<a href="https://github.com/Kade-Jeon/mini2_BOLT.git">👀 자세히</a></li>
 	<li>Ticketaca : 전시회 티켓 예약 사이트 /<a href="https://github.com/Kade-Jeon/ticketaca.git">👀 자세히</a></li>
 	<li>Ticketaca : 3번 프로젝트를 SpringFramework 적용 /<a href="https://github.com/Kade-Jeon/mini4_ticketaca.git">👀 자세히</a></li>
-	<li><img src="https://i.pinimg.com/originals/9e/04/6b/9e046bd40cd5e178205311426057de98.gif" width=30 height=30 />HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 /<a href="https://github.com/Kade-Jeon/nonsan.git">👀 자세히</a></li>
-	<li><img src="https://i.pinimg.com/originals/9e/04/6b/9e046bd40cd5e178205311426057de98.gif" width=30 height=30 />[FINAL] Job-a : 클라우드 환경 MSA 구조의 개발자 채용 사이트 /<a href="https://github.com/miracle-job-a">👀 자세히</a></li>
+	<li>HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 /<a href="https://github.com/Kade-Jeon/nonsan.git">👀 자세히</a><img src="https://media2.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b9529fp1ni1lpsnggm5q8ddhubokfmb8iutki1e5b7lk&ep=v1_stickers_related&rid=giphy.gif&ct=s" width=30 height=30 align=center /></li>
+	<li>[FINAL] Job-a : 클라우드 환경 MSA 구조의 개발자 채용 사이트 /<a href="https://github.com/miracle-job-a">👀 자세히</a><img src="https://media2.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b9529fp1ni1lpsnggm5q8ddhubokfmb8iutki1e5b7lk&ep=v1_stickers_related&rid=giphy.gif&ct=s" width=30 height=30 align=center /></li>
 </ol>
