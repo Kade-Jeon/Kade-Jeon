@@ -59,6 +59,10 @@
 	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 </div>
 
+<p align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=Kade-Jeon" />
+</p>
+
 
 <p align=center>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kade-Jeon)](https://github.com/Kade-Jeon/github-readme-stats)
