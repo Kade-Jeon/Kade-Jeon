@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kade_Jeon&fontSize=40)
 <h1 align="center"> 전총명 </h1>
 
-<h3>소개</h3>
+<h3>👋 소개</h3>
 안녕하세요.
 스포츠를 전공하고, 해외영업 및 국내영업을 경험하고 개발자가 되고자 도전하고 있는 전총명 입니다.
 다양한 경험을 바탕으로 개발에 녹여 강점으로 바꾸고자 노력하고 있습니다.
