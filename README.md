@@ -48,7 +48,7 @@
   	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="left">
   <h4> etc </h4>
 	<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 </div>
