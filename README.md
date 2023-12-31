@@ -6,24 +6,22 @@
 스포츠를 전공하고, 해외영업 및 국내영업을 경험하고 개발자가 되고자 도전하고 있는 전총명 입니다.
 다양한 경험을 바탕으로 개발에 녹여 강점으로 바꾸고자 노력하고 있습니다.
 
-<h3>📍 목표</h3>
-현재 부트캠프 수료 후, 백엔드 개발자로 취업을 목표로 하고 있습니다.
-
 <h3>📝 교육</h3>
 <ul>
 	<li>엔코아 플레이데이터 백엔드 부트캠프 2기</li>
 	<li>기간: 2023.06.22 ~ 2023.12.21</li>
 </ul>
 
+<hr>
 
-<div align="center">
-  <h4> IDE </h4>
+<h4> IDE </h4>
+<div align="left">
 	<img src="https://img.shields.io/badge/intelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 </div>
 
-<div align="center">
-  <h4> Stack </h4>
+<h4> Stack </h4>
+<div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
@@ -34,15 +32,15 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
 </div>
 
-<div align="center">
-  <h4> CI/CD </h4>
+<h4> CI/CD </h4>
+<div align="left">
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
 	<img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white" />
 	<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white" />
 </div>
 
-<div align="center">
-  <h4> Collaboration </h4>
+<h4> Collaboration </h4>
+<div align="left">
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
