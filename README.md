@@ -65,7 +65,12 @@
 	<li>HGYR : 내장 톰캣(WAS)을 이용한 MSA 구조 포털 사이트 /<a href="https://github.com/Kade-Jeon/nonsan.git">👀 자세히</a><img src="https://media2.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b9529fp1ni1lpsnggm5q8ddhubokfmb8iutki1e5b7lk&ep=v1_stickers_related&rid=giphy.gif&ct=s" width=30 height=30 align=center /></li>
 	<li>[FINAL] Job-a : 클라우드 환경 MSA 구조의 개발자 채용 사이트 /<a href="https://github.com/miracle-job-a">👀 자세히</a><img src="https://media2.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b9529fp1ni1lpsnggm5q8ddhubokfmb8iutki1e5b7lk&ep=v1_stickers_related&rid=giphy.gif&ct=s" width=30 height=30 align=center /></li>
 </ol>
+<hr>
 
+### Toy Project
+<ol>
+	<li>bowling : Java로 구현한 볼링 점수 계산 로직 /<a href="https://github.com/Kade-Jeon/bowling_v2">👀 자세히</a></li>
+</ol>
 
 
 <p align=center>
