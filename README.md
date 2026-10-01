@@ -42,7 +42,7 @@ Java/Spring 백엔드 개발자입니다.<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat" />
 </div>
 
 <h4> Backend </h4>
@@ -99,7 +99,7 @@ Java/Spring 백엔드 개발자입니다.<br>
 <h4> AI Coding Tools </h4>
 <div align="left">
 	<img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
-	<img src="https://img.shields.io/badge/Codex_(OpenAI)-412991?style=flat&logo=openai&logoColor=white" />
+	<img src="https://img.shields.io/badge/Codex_(ChatGPT)-412991?style=flat&logo=openai&logoColor=white" />
 	<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white" />
 </div>
 
