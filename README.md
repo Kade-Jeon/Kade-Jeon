@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kade_Jeon&fontSize=40)
-<h1 align="center"> 전총명 </h1>
 
 <h3>👋 소개</h3>
 고객사 CS 대응과 외부 API 연동 경험이 있는 Java/Spring 백엔드 개발자입니다.<br>
@@ -8,7 +7,7 @@
 
 <h3>💼 경력 하이라이트</h3>
 <ul>
-	<li>KISTI 프라이빗 클라우드 ELK/APM 구축: 로그 중앙 조회와 느린 쿼리 개선으로 문의 대응 시간 약 30% 감소(체감 기준)</li>
+	<li>KISTI 프라이빗 클라우드 ELK/APM 구축: 로그 중앙 조회와 느린 쿼리 개선으로 문의 대응 시간 약 30% 감소</li>
 	<li>고객사 13곳 CS 대응: 문의 재현, 원인 분석, 고객사별 반영과 제품 공통 수정</li>
 	<li>메일 서비스 Spring AI PoC: 다국어 번역, 초안 작성, 메일 요약, 첨부파일 요약 구현. AI × Softwave 2025(2025.12, 코엑스)에서 G-Cloud 공공메일 AI 기능으로 <a href="https://v.daum.net/v/Bn14HnMVOt?f=p">시연</a>, NIA(한국지능정보사회진흥원) 베타 도입</li>
 	<li>한국농수산식품유통공사 SMS를 MMS로 확장: 통신사 API 호출부를 RestTemplate으로 재작성, 대량 발송 병렬 처리</li>
@@ -22,6 +21,7 @@
 		- 고객 안내 챗봇: Next.js, React, Supabase, Vercel (베타 준비)<br>
 		- 안내 Map: 양양점 프런트의 남는 TV에 시설 위치와 이용 시간 표시 (양양점 운영 중)</li>
 	<li><b>Make.com 뉴스 자동화</b> — RSS→Gemini→Blogger 시나리오로 한국어 기사 328건 생성 및 발행</li>
+	<li><b>Berita</b> — 토스 미니앱 뉴스레터 (운영 종료): Gmail 콘텐츠 수집, Gemini 섹션 작성, Supabase Edge Function으로 관리자 검수 후 발행</li>
 </ul>
 
 <h3>📝 교육</h3>
