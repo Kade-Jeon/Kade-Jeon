@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kade_Jeon&fontSize=40)
 
 <h3>👋 소개</h3>
-고객사 CS 대응과 외부 API 연동 경험이 있는 Java/Spring 백엔드 개발자입니다.<br>
+고객과 현장의 불편을 찾아 코드로 해결하는 개발자입니다.<br>
 크리니티에서 1년 9개월(2024.05~2026.01) 동안 대학, 연구기관, 공공기관이 쓰는 클라우드 메일 서비스 백엔드를 개발하며 고객사 13곳의 CS를 맡았습니다.<br>
 개발 전 경력은 솔루션영업과 해외영업 약 4년입니다.
 
